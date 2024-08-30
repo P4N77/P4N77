@@ -5,7 +5,7 @@
 <!-- About Me -->
 <p align="center">
   <img src="https://img.shields.io/badge/Role-Student%20of%20Systems%20Engineering-blue" alt="Role">
-  <img src="https://img.shields.io/badge/Location-Argentina-green" alt="Location">
+  <img src="https://img.shields.io/badge/Location-Colombia-green" alt="Location">
 </p>
 
 <!-- Introduction -->
@@ -15,23 +15,25 @@
 
 <!-- Current Work -->
 ### 🔭 I’m currently working on:
-- Developing a web application using React and Node.js.
-- Contributing to open-source projects related to data science.
+- Develop a web application using React and Node.js.
+- doing my internship related to software development.
 
 <!-- Learning -->
 ### 🌱 I’m currently learning:
-- Advanced algorithms and data structures.
-- Cloud computing and deployment with AWS.
+- Algorithms and data structures.
+- Laravel & Vue.js.
+- Python & Django.
+- Networking.
 
 <!-- Collaboration -->
 ### 👯 I’m looking to collaborate on:
-- Open-source projects that focus on software engineering and development.
-- Projects related to artificial intelligence and machine learning.
+- Projects in collaboration with other developers.
+- Personal and learning projects.
 
 <!-- Help -->
 ### 🤔 I’m looking for help with:
 - Understanding advanced topics in machine learning and AI.
-- Improving my coding skills in Python and JavaScript.
+- Improving my coding skills in Python, PHP and JavaScript.
 
 <!-- Contact -->
 ### 💬 Ask me about:
@@ -39,12 +41,9 @@
 - Best practices in software engineering.
 
 ### 📫 How to reach me:
-- [LinkedIn](https://www.linkedin.com/in/your-linkedin-profile)
-- [Email](mailto:your-email@example.com)
+- [LinkedIn](https://https://www.linkedin.com/in/german-morenodev/)
+- [Email](mailto:your-german.dev77@gmail.com)
 
-<!-- Fun Fact -->
-### ⚡ Fun fact:
-- I enjoy playing chess and solving puzzles in my free time.
 
 <!-- Footer -->
 <p align="center">
