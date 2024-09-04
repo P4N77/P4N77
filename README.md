@@ -41,7 +41,7 @@
 - Best practices in software engineering.
 
 ### 📫 How to reach me:
-- [LinkedIn](https://https://www.linkedin.com/in/german-morenodev/)
+- [LinkedIn](https://www.linkedin.com/in/german-morenodev/)
 - [Email](mailto:your-german.dev77@gmail.com)
 
 
