@@ -1,6 +1,7 @@
 <!-- Header -->
 <h1 align="center">Hi 👋, I'm German</h1>
 <h3 align="center">Student of Systems Engineering</h3>
+<h3 align="center">FullStack Developer</h3>
 
 <!-- About Me -->
 <p align="center">
@@ -16,6 +17,7 @@
 <!-- Current Work -->
 ### 🔭 I’m currently working on:
 - Develop a web application using React and Node.js.
+- Develop a web application using Laravel and Vue.js.
 - doing my internship related to software development.
 
 <!-- Learning -->
