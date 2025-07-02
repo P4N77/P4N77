@@ -1,16 +1,7 @@
 <!-- Header -->
-<table>
-  <tr>
-    <td align="left" valign="top">
-      <img src="/src/header.png" alt="Profile image" width="120"/>
-    </td>
-    <td align="center" valign="middle">
-      <h1>Hi 👋, I'm German</h1>
-      <h3>Student of Systems Engineering</h3>
-      <h3>FullStack Developer</h3>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="src/header.png" alt="Banner" />
+</p>
 
 <!-- About Me -->
 <p align="center">
