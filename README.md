@@ -1,6 +1,6 @@
 <!-- Header -->
 <p align="center">
-  <img src="src/header.png" alt="Banner" />
+  <!-- <img src="src/header.png" alt="Banner" /> -->
 </p>
 
 <!-- About Me -->
