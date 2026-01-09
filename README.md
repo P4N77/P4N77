@@ -64,6 +64,10 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=P4N77&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 </div>
 
+<img src="https://raw.githubusercontent.com/P4N77/P4N77/output/snake.svg" alt="Snake animation" />
+
+###
+
 
 
 ### 📫 How to reach me:
