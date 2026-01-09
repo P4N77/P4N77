@@ -66,7 +66,6 @@
 
 <img src="https://raw.githubusercontent.com/P4N77/P4N77/output/snake.svg" alt="Snake animation" />
 
-###
 
 
 
